@@ -64,7 +64,7 @@ Codes run in Aliyun dataset are in the TPGraph.zip
 
 **Aliyun dataset** link: https://tianchi.aliyun.com/competition/entrance/231598/information?from=oldUrl
 
-1. Our old ablation experiment in Table 3 did not report the integration of each module, making some results counterintuitive (e.g. abnormal MAPE). Here, we provide a NEW ablation experiment table of each modules with Aliyun dataset shows in Table A.
+1. Our ablation experiment in Table 3 did not report the integration of each module, making some results counterintuitive (e.g. abnormal MAPE). Here, we provide a NEW ablation experiment table of each modules with Aliyun dataset shows in Table A.
 <!-- ![image](https://user-images.githubusercontent.com/73110791/188572746-4d7e5815-ab91-4cef-acf8-649b3a2e36eb.png) -->
 ![image](https://user-images.githubusercontent.com/73110791/189019542-feadfa4b-3062-4378-b8c5-fe513bd2e91c.png)
 
